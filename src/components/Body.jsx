@@ -19,14 +19,14 @@ function CatCard({ name, image, description }) {
 const cats = [
   {
     id: 1,
-    name: "Mr. Bobo",
+    name: "Mr. Johny",
     image:
       "https://thumbs.dreamstime.com/b/cute-calico-cat-pixel-art-isolated-white-background-adorable-sitting-bit-style-high-quality-vector-illustration-three-447442731.jpg",
     description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
   },
   {
     id: 2,
-    name: "Mr. PoPo",
+    name: "Mr. Sushi",
     image:
       "https://static.vecteezy.com/system/resources/previews/058/380/716/non_2x/pixel-art-illustration-of-a-cute-orange-and-white-cat-in-a-sitting-position-this-adorable-design-rendered-in-a-classic-pixel-style-adds-a-retro-and-whimsical-touch-on-it-vector.jpg",
     description: "Velit ipsum quae id veniam ex quaerat quasi libero.",
